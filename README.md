@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/priyanshuvedwal/priyanshuvedwal/master/assets/priyanshu%20vedwal%20Banner.png">
+<img src="[https://raw.githubusercontent.com/priyanshuvedwal/priyanshuvedwal/master/assets/priyanshu%20vedwal%20Banner.png](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)">
 
 <h2> Hey there! I'm Priyanshu Vedwal.</h2>
 
