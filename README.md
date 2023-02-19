@@ -23,9 +23,9 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Nextjs](https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=Nextjs)
-  ![Expressjs](https://img.shields.io/badge/-Expressjs-333333?style=flat&logo=Expressjs)
-  ![Web3js](https://img.shields.io/badge/-Web3js-333333?style=flat&logo=Web3js)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
+  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=Express.js)
+  ![Web3.js](https://img.shields.io/badge/-Web3.js-333333?style=flat&logo=Web3.js)
   ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=Solidity)
    
 
